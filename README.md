@@ -1,4 +1,4 @@
 PomodoroTimer
 =============
 
-A simple Java Pomodoro Timer application.
+A simple Pomodoro Timer application.
